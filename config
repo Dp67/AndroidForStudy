@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+	precomposeunicode = true
+[branch "master"]
+	remote = https://github.com/Dp67/AndroidForStudy.git
+	merge = refs/heads/master
